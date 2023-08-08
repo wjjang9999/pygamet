@@ -1,5 +1,5 @@
 import pygame
-import os
+import oss
 import random
 
 SCREEN_WIDTH = 900
